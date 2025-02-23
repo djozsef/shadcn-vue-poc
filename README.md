@@ -4,7 +4,7 @@
 
 To start the docker container for CLI:
 ```sh
-$ ./cli-docker.sh
+$ ./docker-cli.sh
 ```
 
 ## Install shadcn-vue
