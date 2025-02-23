@@ -16,7 +16,8 @@ $ pnpm create vite@latest frontend -- --template vue-ts
 
 2. Install NPM dependencies
 ```sh
-$ cd frontend && pnpm install```
+$ cd frontend && pnpm install
+```
 
 3. Add `tailwindcss` and `autoprefixer` 
 ```sh
