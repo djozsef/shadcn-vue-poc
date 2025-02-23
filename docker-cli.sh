@@ -1,0 +1,1 @@
+docker-compose -f ./docker/docker-compose-cli.yml run -it cli sh
